@@ -10,10 +10,10 @@
 
 ### 🛠️ 技术栈
 
-`Python` · `Flask` · `DeepSeek API` · `MySQL` · `Git` · `Tailwind CSS`
+`Python` · `Flask` · `DeepSeek API` · `LangChain` · `FAISS` · `Git`
 
 ### 📌 精选项目
 
 | 项目 | 简介 | 链接 |
 | --- | --- | --- |
-| **ai-chatbot** | 基于 DeepSeek API + Flask 的多轮对话 Web 应用，支持上下文记忆、角色扮演（System Prompt）与多会话管理 | [查看仓库](https://github.com/yztl-code/ai-chatbot) |
+| **ai-chatbot** | 基于 DeepSeek API + Flask 的多轮对话 Web 应用，支持上下文记忆、角色扮演、多会话管理与 **RAG 文档知识库问答**（LangChain + FAISS） | [查看仓库](https://github.com/yztl-code/ai-chatbot) |
